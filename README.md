@@ -28,9 +28,8 @@ following to your init file:
 (setq zone-programs [zone-tmux-clock])
 ```
 
-Then either use `M-x zone` for instant gratification, `M-x
-zone-when-idle` to run it after idling or `M-x zone-mode` to always
-run it when idle.
+Then either use `M-x zone` for instant gratification or `M-x
+zone-when-idle` to run it after idling.
 
 ## Customization
 
