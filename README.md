@@ -13,8 +13,7 @@ command in tmux.
 
 ## Installation
 
-Install manually for the time being.
-<!-- Install via `package.el` from [MELPA] or [MELPA Stable]. -->
+Install via `package.el` from [MELPA] or [MELPA Stable].
 
 ## Usage
 
